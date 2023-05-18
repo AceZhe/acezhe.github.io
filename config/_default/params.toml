@@ -1,0 +1,25 @@
+alwaysopen = false
+author = "AceZhe"
+description = "AceZhe's Notebook"
+showVisitedLinks = true
+disableSearch = false
+disableSearchHiddenPages = true
+disableSeoHiddenPages = true
+disableTagHiddenPages = true
+disableAssetsBusting = false
+disableGeneratorVersion = false
+disableInlineCopyToClipBoard = false
+disableShortcutsTitle = false
+disableLandingPageButton = true
+disableLanguageSwitchingButton = false
+disableBreadcrumb = false
+disableToc = false
+disableMathJax = false
+ordersectionsby = "weight"
+
+titleSeparator = ":"
+collapsibleMenu = true
+additionalContentLanguage = ["en"]
+disableExplicitIndexURLs = false
+externalLinkTarget = "_blank"
+themeVariant= "neon"

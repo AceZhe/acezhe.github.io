@@ -1,0 +1,8 @@
+baseURL = 'https://acezhe.github.io/'
+languageCode = 'zh-cn'
+title = "AceZhe's Notebook"
+
+[outputs]
+home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+section = ["HTML", "RSS"]
+page = ["HTML", "RSS", "PRINT"]
